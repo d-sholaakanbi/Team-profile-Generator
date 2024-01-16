@@ -29,7 +29,9 @@ To install the Team Profile Generator, follow these steps:
 ---
 
 ## Deployed Site
+https://d-sholaakanbi.github.io/Team-profile-Generator/
 
+---
 
 ## Usage
 To use the Team Profile Generator, follow these steps:
